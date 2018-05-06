@@ -1,3 +1,3 @@
 <p align="center">
-  <img width="460" height="300" src="http://etherurim.org/UnderConstruction.jpg">
+  <img width="460" height="300" src="/UnderConstruction.jpg">
 </p>
